@@ -1,0 +1,25 @@
+# Rust
+
+## Ventajas
+* Codigo y proceso de codigo sumamente abierto
+* Comunidad inclusiva
+* Codigo en Github y procesos de RFC totalmente transparentes
+* Multiplataforma
+* Libros gratis
+* Documentacion es una prioridad
+* Toma las buenas ideas de otros lenguajes
+* El borrow checker
+* Mensajes de ayuda del compilador
+* Inmutable por default
+
+## Desventajas
+* Algunas areas no estan totalmente documentadas
+* Aun no es un reemplazo de C en todos los casos
+* El codigo es en ocasiones extenso
+* No todas las API's de las librerias se han estabilizado, existen muchas que utilizan "Nightly"
+* Toma tiempo ajustarse a algunos conceptos, lifetimes, traits, move semantics, associated types, etc.
+* Falta que algunas librerias maduren
+
+## Cosas neutras
+* No hay clases
+* Algunas estructuras o implementaciones no es posible realizarlas sin `unsafe`
